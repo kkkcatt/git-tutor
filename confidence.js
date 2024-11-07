@@ -1,5 +1,2 @@
-console.log('verison test1')
-console.log('verison test-git-init')
-console.log('test-是否初始化/commit')
-console.log('wuyu')
-console.loy('hola12')
+console.log('backup')
+
